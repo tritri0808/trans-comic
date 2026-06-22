@@ -1,4 +1,6 @@
 # Comic Translator MVP
+<img width="1919" height="1079" alt="Screenshot_1" src="https://github.com/user-attachments/assets/f95b1c2a-4dcc-4049-a4eb-9d3aebdb7c3b" />
+
 
 Ứng dụng dịch truyện tranh tự động và chỉnh sửa bản dịch trực quan dạng giao diện desktop, phát triển bằng Python và PySide6. Ứng dụng hỗ trợ nhận dạng chữ (OCR), dịch tự động, chỉnh sửa nội dung dịch, căn chỉnh font chữ và kết xuất lại thành tệp truyện dịch hoàn chỉnh.
 
