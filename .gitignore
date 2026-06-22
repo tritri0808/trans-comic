@@ -1,0 +1,8 @@
+Mysterious Girlfriend X Omnibus v01 (2016) (Digital) (danke-Empire).cbz
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+*.png
+*.json

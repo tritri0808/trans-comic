@@ -1,0 +1,8 @@
+PySide6
+paddleocr
+paddlepaddle
+opencv-python
+Pillow
+deep-translator
+numpy
+easyocr
