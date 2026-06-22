@@ -74,3 +74,5 @@
 
 4. **Kết xuất truyện:**
    - Click **Save CBZ** để đóng gói toàn bộ trang truyện đã hoàn thành bản dịch thành một tệp CBZ mới để đọc.
+
+**PS: để thêm vùng click chuột trái, bỏ chọn click chuột phải. trong bảng select text giữ ctrl chọn text cần merge text.**
